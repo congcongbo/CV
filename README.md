@@ -1,48 +1,36 @@
-## Your Name
+## Cong Cong Bo
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Entrepreneur with medical background, developing Hippocampus.ai, a case creation and presentation app for doctors and medical students. Designer, animator and coder-in-training (Ruby) at Makers Academy. Looking to work with talented developers who want to work on a great product.
 
 ## Skills
 
-#### This Skill
+#### Design (Photoshop, Illustrator, Sketch) and Animation (After Effects)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Self-taught. Won photography competitions as a teenager, started drawing medical diagrams in illustrator after university, then turning these into animated videos. Learned Sketch to design my app, Hippocampus.ai.
 
-- Experience
-- Achievements
-- Evidence
+- UX/UI: see hippocampus.ai
+- Animation: hippomedics.com and Liftupp.com
 
-#### Another Skill
+#### Coding
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+New to coding, but learning fast at Makers Academy, on the July 2017 Remote course!
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2017 to October 2017)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Cambridge, MA Medical Sciences
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Part II in Physiology & Psychology
+- President of Cambridge University Entrepreneurs and Cambridge University Scientific Society
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Geek Stall** (2014 to present)    
+*Owner*  
+**Cambridge College of Emergency Medicine (CAMCEM)** (2012 to 2016)   
+*Owner*
